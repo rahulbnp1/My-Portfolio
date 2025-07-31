@@ -386,13 +386,17 @@ nav .fa-solid{
     .copyright{
         font-size: 14px;
     }
+    #msg{
+        color: #61b752;
+        margin-top: -30px;
+        display: block;
+        text-align: center;
+    }
+    #img-abt{
+        height: 250px;
+        width: 350px;
+    }
     
 
 
-}
-#msg{
-    color: #61b752;
-    margin-top: -30px;
-    display: block;
-    text-align: center;
 }
